@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5d35caa548ec4441bb76d0adf3d9873, type: 3}
+  m_Name: DefaultLevelPack
+  m_EditorClassIdentifier: 
+  _levelPackName: "\u041C\u0435\u043C\u044B \u043F\u0440\u043E \u0434\u0435\u0434\u0430"
+  _levelPackDescription: "\u0421\u0431\u043E\u0440\u043D\u0438\u043A \u043A\u043E\u043B\u043B\u0435\u043A\u0446\u0438\u0438
+    \u0444\u043E\u0442\u043E\u0436\u0430\u0431 \u0441 \u0434\u0435\u0434\u043E\u043C"
+  _roundThemes:
+  - id: 0
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0443\u043A\u0440\u0430\u043B \u043D\u043E\u0433\u0443"
+  - id: 1
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0441\u043B\u043E\u043C\u0430\u043B \u0433\u043E\u043B\u043E\u0432\u043E\u0439
+      \u0442\u0430\u0437\u0438\u043A"
+  - id: 2
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0441\u0442\u0430\u043B \u0442\u0438\u043C\u043B\u0438\u0434\u043E\u043C"
+  - id: 3
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043D\u0438\u043A\u0442\u043E \u043D\u0435
+      \u043E\u0446\u0435\u043D\u0438\u043B \u0442\u0432\u043E\u0439 \u043C\u043E\u0434\u043D\u044B\u0439
+      \u043F\u0430\u0440\u0438\u043A"
+  - id: 4
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043D\u0435 \u0434\u0430\u043B\u0438
+      \u043F\u0435\u043D\u0441\u0438\u044E"
+  - id: 5
+    theme: "\u0412\u0430\u043B\u044F \u043E\u043F\u044F\u0442\u044C \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0432\u0430\u0435\u0442
+      \u0438\u0437 \u0431\u0430\u0433\u0430\u0436\u043D\u0438\u043A\u0430"
+  - id: 6
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043D\u0430\u0437\u0432\u0430\u043B\u0438
+      \u0442\u0432\u043E\u044E \u043D\u0430\u0441\u0442\u043E\u043B\u043A\u0443 \u0445\u0443\u0439\u043D\u0435\u0439"
+  - id: 7
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043F\u043E\u043F\u0440\u043E\u0441\u0438\u043B\u0438
+      \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u043E \u043F\u043E\u043C\u043E\u0447\u044C
+      \u0441 \u043F\u0440\u043E\u0435\u043A\u0442\u043E\u043C \u0438 \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u043B\u0438
+      \u0434\u0435\u043B\u0430\u0442\u044C \u0432\u0441\u044E \u0440\u0430\u0431\u043E\u0442\u0443"
+  _images:
+  - id: 0
+    sprite: {fileID: 21300000, guid: 50ba30d1628bbc141a86e50a8c05c314, type: 3}
+  - id: 1
+    sprite: {fileID: 21300000, guid: 41ee8489c3dc5b548ba9eecdcd0e7ae4, type: 3}
+  - id: 2
+    sprite: {fileID: 21300000, guid: c159421db7030904794876eecad42c80, type: 3}
+  - id: 3
+    sprite: {fileID: 21300000, guid: e4dfdc8b47abb274c8e04a043b6edeb7, type: 3}
+  - id: 4
+    sprite: {fileID: 21300000, guid: cb426b2449b6ccc4b96bb63b43828d93, type: 3}
+  - id: 5
+    sprite: {fileID: 21300000, guid: cccde25ac81ee194e8c48224937765f5, type: 3}
+  - id: 6
+    sprite: {fileID: 21300000, guid: 5b2a7e3cf906e614e9384af56ae28a4f, type: 3}
+  - id: 7
+    sprite: {fileID: 21300000, guid: 1fdae1e16daf53245a2483d1077f0428, type: 3}
+  - id: 8
+    sprite: {fileID: 21300000, guid: da3945e577324e746bc43cce48fd580b, type: 3}
+  - id: 9
+    sprite: {fileID: 21300000, guid: b9a4b7ca38a5f16458ea0f60620bea14, type: 3}
+  - id: 10
+    sprite: {fileID: 21300000, guid: 5f82cc614d5fbe442a1f0bc47db562e5, type: 3}
+  - id: 11
+    sprite: {fileID: 21300000, guid: f4e5afe2eb6d8974381149d704fbab69, type: 3}
+  - id: 12
+    sprite: {fileID: 21300000, guid: 3ad27eb734363ab4da262d8be5c07ca6, type: 3}
+  - id: 13
+    sprite: {fileID: 21300000, guid: 66071b2e73ebf3544a88f9bb402742f9, type: 3}
+  - id: 14
+    sprite: {fileID: 21300000, guid: f11f35fd24578594cae8a680937948f5, type: 3}

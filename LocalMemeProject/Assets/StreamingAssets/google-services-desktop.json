@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046630211222",
+    "project_id": "sigamewithmeme",
+    "storage_bucket": "sigamewithmeme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046630211222:android:b094c59e9f23f93b96ecb7",
+        "android_client_info": {
+          "package_name": "com.SecretRoom.LocalMeme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivsK2Hdn3e6V1oFvnUSfolgVSxH0qlqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

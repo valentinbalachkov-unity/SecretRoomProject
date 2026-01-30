@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7782595826690309011
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3811891028437361817}
+  - component: {fileID: 6254183970865837766}
+  - component: {fileID: 53491457862717439}
+  m_Layer: 0
+  m_Name: FusionLobbySystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3811891028437361817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7782595826690309011}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6254183970865837766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7782595826690309011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 071fef545f0d4c529410bc4dcec07aee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.LobbySystem.Realisation.FusionLobbySystem
+  networkRunnerPrefab: {fileID: 6425644574079442646, guid: 91bf2c12eec216c48a65d0f0712af75d,
+    type: 3}
+  playerPrefab:
+    RawGuidValue: e7ce1cacabfc72c4c97221e4242db173
+  _gameStateMachinePrefab: {fileID: 164469871332368945, guid: 969518eb87efa804aa6f4eab720dd770,
+    type: 3}
+  _deckSystemPrefab: {fileID: 4220112434240128127, guid: aee7b009346a0b140a4d519200461f4c,
+    type: 3}
+  _themeManagerPrefab: {fileID: 7257464450973025514, guid: 9ac3fa9deb7195142bc85a52fa45b1d7,
+    type: 3}
+  _timerPrefab: {fileID: 1530128162170293101, guid: 7fdd0d42a8998734b84627b1b4f25f65,
+    type: 3}
+  _textSubmissionManagerPrefab: {fileID: 2619143142720975359, guid: 51db5139be0db0d408b001d73f309cf0,
+    type: 3}
+  _resultManagerPrefab: {fileID: 1190888943028798666, guid: 0dffde08e56d2184187fd1b8b481a963,
+    type: 3}
+  _votingManagerPrefab: {fileID: 3748492076157743996, guid: a05d8be15794ecf45b0df3fc07dcdc6b,
+    type: 3}
+  playerListManager: {fileID: 53491457862717439}
+--- !u!114 &53491457862717439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7782595826690309011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc88f5a061044e1282fc6d5980425883, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::_Project.LobbySystem.Realisation.PlayerListManager

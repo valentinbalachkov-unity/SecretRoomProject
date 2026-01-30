@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5d35caa548ec4441bb76d0adf3d9873, type: 3}
+  m_Name: TestLevelPack
+  m_EditorClassIdentifier: 
+  _levelPackName: "\u0424\u043E\u0442\u043E\u0447\u043A\u0438"
+  _levelPackDescription: "\u0427\u0442\u043E\u0431\u044B \u043F\u043E\u0442\u0435\u0441\u0442\u0438\u0442\u044C"
+  _roundThemes:
+  - id: 0
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043F\u0440\u043E\u043B\u0438\u043B \u043A\u043E\u043B\u0443
+      \u043D\u0430 \u043D\u043E\u0443\u0442\u0431\u0443\u043A"
+  - id: 1
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043D\u0430\u043F\u0438\u043B\u0441\u044F
+      \u043F\u0438\u0432\u0430 \u0438 \u043F\u043E\u0435\u0445\u0430\u043B \u043F\u043E
+      \u0434\u0435\u0432\u043E\u0447\u043A\u0430\u043C"
+  - id: 2
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043F\u0440\u0438\u0448\u0435\u043B \u0432
+      \u0433\u043E\u0441\u0442\u0438 \u043A \u0416\u0435\u043D\u0435 \u0430 \u043E\u043D
+      \u0433\u043E\u043B\u0435\u043D\u044C\u043A\u0438\u0439"
+  - id: 3
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043F\u043E\u0437\u0432\u0430\u043B \u0432
+      \u0433\u043E\u0441\u0442\u0438 \u0437\u0430\u0447\u0438\u043B\u0438\u0442\u044C\u0441\u044F
+      \u0430 \u044D\u0442\u0438 \u043F\u043E\u043B\u0443\u0444\u0430\u0431\u0440\u0438\u043A\u0430\u0442\u044B
+      \u043F\u0440\u0438\u043D\u0435\u0441\u043B\u0438 10 \u043F\u043E\u043B\u0442\u043E\u0440\u0430\u0448\u0435\u043A
+      \u043F\u0438\u0432\u0430"
+  - id: 4
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0414\u0440\u044E\u0441 \u043F\u043E\u0448\u0435\u043B
+      \u0441\u0440\u0430\u0442\u044C \u0432 \u0442\u0432\u043E\u0439 \u0442\u0443\u0430\u043B\u0435\u0442"
+  - id: 5
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043D\u0430\u0433\u043E\u0442\u043E\u0432\u0438\u043B
+      \u043A\u0443\u0447\u0443 \u0435\u0434\u044B \u043D\u043E \u0432 \u0433\u043E\u0441\u0442\u0438
+      \u043F\u0440\u0438\u0448\u0435\u043B \u0414\u0440\u044E\u0441"
+  - id: 6
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0412\u0430\u043B\u044F \u043F\u043E\u043F\u0440\u043E\u0441\u0438\u043B
+      \u0441\u043A\u0438\u043D\u0443\u0442\u044C 3\u043A \u0437\u0430 \u043F\u0430\u0440\u0443
+      \u043F\u043E\u043B\u0442\u043E\u0440\u0430\u0448\u0435\u043A \u043F\u0438\u0432\u0430
+      \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043E\u043D \u043A\u0443\u043F\u0438\u043B"
+  - id: 7
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0437\u0430\u0440\u043F\u043B\u0430\u0442\u0430
+      \u0432 \u043F\u0440\u043E\u0432\u043E\u0434\u0435 \u043F\u0440\u0438\u0448\u043B\u0430
+      \u043D\u0430 \u043F\u0430\u0440\u0443 \u0442\u044B\u0441\u044F\u0447 \u0431\u043E\u043B\u044C\u0448\u0435"
+  - id: 8
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0437\u043E\u0432\u0451\u0448\u044C \u0412\u0430\u043B\u044E
+      \u0432 \u0445\u043E\u0439\u043A\u0443 \u0430 \u043E\u043D \u0443\u0434\u0430\u043B\u044F\u0435\u0442
+      \u0442\u0435\u0431\u044F \u0438\u0437 \u0434\u0440\u0443\u0437\u0435\u0439"
+  - id: 9
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043F\u043E\u043F\u0440\u043E\u0441\u0438\u043B
+      \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u043F\u0440\u0438\u0434\u0443\u043C\u0430\u0442\u044C
+      \u043D\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0435 \u0438\u043C\u0435\u043D\u0430
+      \u0438 \u0432 \u043F\u0435\u0440\u0432\u043E\u043C \u0436\u0435 \u0447\u0430\u0440\u043D\u0438\u043A\u0435
+      \u0432\u0438\u0434\u0438\u0448\u044C \u0438\u043C\u044F Zalupoed"
+  - id: 10
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u041A\u043E\u0441\u0442\u044F \u043F\u0440\u0438\u0432\u0435\u043B
+      \u043E\u0447\u0435\u0440\u0435\u0434\u043D\u043E\u0433\u043E \u0447\u0443\u043D\u0433\u0443\u043A\u0430
+      \u043D\u0430 \u043F\u044C\u044F\u043D\u043A\u0443"
+  - id: 11
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u043F\u0438\u0434\u043E\u0432\u043A\u0430
+      \u0437\u0430 \u043C\u0435\u0439\u043A\u043B\u0430\u0432\u043E\u043C \u0441\u043F\u0440\u0430\u0448\u0438\u0432\u0430\u0435\u0442
+      \u043F\u043E\u0434 \u0447\u0435\u043C \u0442\u044B"
+  - id: 12
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0432\u0435\u0441\u044C \u0434\u0435\u043D\u044C
+      \u043F\u0438\u043B\u0438\u043B \u0438\u0433\u0440\u0443 \u043D\u0430 \u0445\u0430\u043A\u0430\u0442\u043E\u043D\u0435
+      \u0430 \u043F\u043E\u0431\u0435\u0434\u0438\u043B\u0430 \u0415\u0434\u0438\u043D\u0430\u044F
+      \u0420\u043E\u0441\u0441\u0438\u044F"
+  - id: 13
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0416\u0435\u043D\u044F \u0432\u043A\u043B\u044E\u0447\u0438\u043B
+      \u0411\u0410\u0423 \u043F\u043E\u0441\u0440\u0435\u0434\u0438 \u043F\u044C\u044F\u043D\u043A\u0438"
+  - id: 14
+    theme: "\u041A\u043E\u0433\u0434\u0430 \u0440\u0430\u0441\u0441\u0442\u0430\u043B\u0441\u044F
+      \u0441 \u0434\u0435\u0432\u0443\u0448\u043A\u043E\u0439 \u0438 \u0447\u0435\u0440\u0435\u0437
+      \u043C\u0435\u0441\u044F\u0446 \u043D\u0430\u043A\u043E\u043F\u0438\u043B \u043D\u0430
+      \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0443"
+  _images:
+  - id: 
+    sprite: {fileID: 21300000, guid: dfb51a7d4ffebe74b96feb77b52e9cb0, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: a552be7fbaa765643a55055b8a2d706a, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 62f365a017a8dac4889347f4986b2617, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 7f17822985416e3409001a9c051554c6, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: f9db739ede7557e448e5113310e62631, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 51d38c10ae6d1744498bd1c934a8b7f4, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: ddac712d9bd551448804a351ed0d53d8, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 536174ac50d11b14f8f841ec20eed415, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 4b88bfe4355cfd048b8020b7825f03fa, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: f1ca1334c1381f84a94cfa89edf9f2e0, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: be4e599a8c3331a4ca6c56b5726889c3, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 8fa19652bd89fdc4cb3458fc4e98aa78, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 46389eb1c0bc7854c9f98c511cf9970a, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 8cad77357eda75243847c25f65db990c, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: b694c1d0bc8f77845b7137746a04acf8, type: 3}
+  - id: 
+    sprite: {fileID: 21300000, guid: 766f066d0103bb449ad1852b59a099aa, type: 3}
